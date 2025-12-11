@@ -20,8 +20,3 @@ Hands-on things I actually did today:
 	•	Uploaded a sample file just to see how everything works
 	•	Accessed the storage explorer inside the portal and clicked around to understand how folders are structured.
   
-My takeaways & understanding:
-	•	Azure Portal isn’t as scary as it looks. Once you click around a bit, things start making sense.
-	•	Data formats matter a LOT — Parquet and JSON will be everywhere in data engineering projects.
-	•	ADLS Gen2 is going to be used heavily throughout the course, so I’m glad I got a feel for it today.
-	•	Storage accounts feel like the foundation for almost everything related to data in Azure.
