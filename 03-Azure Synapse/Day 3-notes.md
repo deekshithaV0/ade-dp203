@@ -1,0 +1,3 @@
+Day 3 -Azure synapse
+
+Today i learned how synapse works and the purpose of a synapse workspace. I looked at the synapse serverless SQL pool and understood how it reads external data directly from storage without having specific computation resources.I also understood what is data ware house and why companies use it to store and analyze large volume of data. I learnt how fact and dimension table work together fact tables store the measurable data while dimension tables provide context and details.
