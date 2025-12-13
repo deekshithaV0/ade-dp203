@@ -1,0 +1,3 @@
+Day4 - Synapse Table Types
+
+Today I continued with Azure Synapse analytics.I learned about the different table types in synapse- heap,Clustured,Hash- distributed and replicated tables.Figured out when to setup each type and how distribution impact performance,I also understood sbout slowly changing dimensions(SCD) and how indexes and partitioning improve query performance.I worked on creating tables with partitions and using Case statements in SQL.
