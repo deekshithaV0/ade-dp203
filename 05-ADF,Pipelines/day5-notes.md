@@ -1,0 +1,3 @@
+Day5- ADF,pipelines
+
+Today, I undertsnad about ADF and how it fits in the data engineering workflow i explored the basic architecture and pricing methodology which helped me to understand the cost structure.I looked into how ETL and ELT procedures work in the cloud and how ADF interacts to multiple data sources including ADLS,synapse and SQL Database.I understood about some core components like pipelines,activities,datasets and linked services and how they all function together.
