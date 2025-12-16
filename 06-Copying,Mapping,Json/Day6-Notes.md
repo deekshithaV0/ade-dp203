@@ -1,0 +1,3 @@
+Day06- Copying,Mapping and JSON
+
+Today,I understood about how ADF pipelines organize data transfers across different sourcesand i learnt how the copy data activity works and when to use mapping data flows for no-code conversions.I worked on analyzing and debugging data flows to ensure everything runs smoothly before executing full pipeline.I also worked with JSON files in ADF and learned how it reads and process them and understanded the difference betweenn JSON Arrays and objects was important for mapping the data correctly and i also learnt how to load the json data into synapse.I explored some transformation in data flows like derived columns for creating new fields,lookups for enriching data.
