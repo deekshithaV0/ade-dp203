@@ -1,0 +1,3 @@
+Day8 - ADF Triggers,GIT Integration
+
+I worked with pipeline triggers in adf and learned how to automate pipeline execution and practiced using scheduled triggers for time based runsTumbling window triggers for batch processing and event based triggers that run autoatically when files are added or modified in Azure storage.I also understood how to integrate ADF with GITHUB for version conrol.I connected my workspace to github repo and created a pipeline in gitmode and practiced committing changes and making pull requests.
