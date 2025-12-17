@@ -1,0 +1,3 @@
+Day7-SHIR and Advanced Transformations
+
+Today,I learnt the self-hosted integration runtine which helps ADF to connect on-perm or private network systems and i understood how that works it clear up some confusion i had about hybrid scenarios.I built some pipelines by using copy activity and mapping data flows.I practiced some tranformations today as well like conditional split,Derived columns,aggregrations.I also learnt and practiced with metadata.foreach,lookup and stored procedure activities to make pipelines more active.
