@@ -1,0 +1,3 @@
+Day 9- Streaming Data Ingestion and Processing 
+
+I learnt about Azure event hubs and how it ingests in large voulme of real time data and created own event hub instance and worked in sending events into it to simulate live streaming.it was intresting to see how event hubs intially stores data before other tools  use it,then i set up a stream analytics task and configured the three primary components like input,output and query.I connected the input to event huband configured the output to a storagr account for processed results and constructed a basic query to filter and convert events and understood how queries run constantly on incoming data instead of in batches really helped the real time principle appear to me.
